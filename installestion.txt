@@ -1,0 +1,7 @@
+git init
+git config --global user.name "username"
+git config --global user.email "user email"
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Nisha12Aggarwal/shoolini-python-class.git
+git push -u origin master
