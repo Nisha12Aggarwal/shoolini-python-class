@@ -1,11 +1,11 @@
 #Question1
-s="plz if u give us question in assignment. Make sure u give the output as a reference. it so confusing something that what should be the output for this quesion..thank you!! "
+s="hello "
 print(s)
 
 #Question 2
-q="plz read this...."
-w=" & sorry for acadviews e.g."
-print(str(s)+str(q)+str(w)) #Concatinate string
+q="world"
+
+print(str(s)+str(q)) #Concatinate string
 
 #Question 3
 
